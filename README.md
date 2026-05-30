@@ -9,6 +9,16 @@ My personal Java practice repository covering **Object-Oriented Programming (OOP
 ```
 Java-Final/
 │
+├── ExceptionHandling/
+│   ├── 01_ArithmeticException/
+│   ├── 02_NullPointerException/
+│   ├── 03_NumberFormatException/
+│   ├── 04_StringIndexOutOfBoundsException/
+│   └── 05_Finally/
+│
+├── Extras/
+├── JDBC/
+│
 ├── OOP/
 │   ├── 01_Class_and_Object/
 │   ├── 02_Constructor/
@@ -27,16 +37,7 @@ Java-Final/
 │   ├── 15_Abstraction_AbstractClass/
 │   └── 16_Abstraction_Interface/
 │
-├── ExceptionHandling/
-│   ├── 01_ArithmeticException/
-│   ├── 02_NullPointerException/
-│   ├── 03_NumberFormatException/
-│   ├── 04_StringIndexOutOfBoundsException/
-│   └── 05_Finally/
-│
 ├── Patterns/
-├── JDBC/
-├── Extras/
 ├── Thread/
 └── README.md
 ```
