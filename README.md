@@ -1,6 +1,6 @@
 # ☕ Java OOP Practice
 
-My personal Java practice repository covering **Object-Oriented Programming (OOP)**, **Exception Handling**, **Patterns**, and **JDBC** — organized from easy to hard.
+My personal Java practice repository covering **Object-Oriented Programming (OOP)**, **Exception Handling**, **Patterns**, **JDBC**, and **Multithreading** — organized from easy to hard.
 
 ---
 
