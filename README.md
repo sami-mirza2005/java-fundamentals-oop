@@ -37,6 +37,7 @@ Java-Final/
 ├── Patterns/
 ├── JDBC/
 ├── Extras/
+├── Thread/
 └── README.md
 ```
 
@@ -117,6 +118,20 @@ Java-Final/
 | File | Description |
 |---|---|
 | `practise.java` | Filter characters from string input using loop + continue |
+
+---
+
+## 🧵 Thread (Multithreading)
+
+| File | What it does |
+|---|---|
+| `multithreading.java` | Basic thread by extending Thread class, calls `start()` |
+| `Multithread_2.java` | Thread using Runnable interface |
+| `multithread_3.java` | `Thread.sleep()` — two threads printing 0–4 with 500ms delay |
+| `multithread_4.java` | What happens when `start()` is called twice on same thread |
+| `multithread_5.java` | Difference between calling `run()` directly vs `start()` |
+| `joinmethod.java` | `join(1500)` — t1 runs for 1500ms, then t2 and t3 start |
+| `joinmethod_1.java` | `join()` — t1 fully finishes before t2 and t3 start |
 
 ---
 
